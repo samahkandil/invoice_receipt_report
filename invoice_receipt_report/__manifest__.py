@@ -3,6 +3,7 @@
     'version': "16.0",
     "summary": "Invoice Receipt Report",
     'website': 'https://www.linkedin.com/in/samah-kandil-odoo',
+    'author': 'Samah Kandil',
     'support': 'samahqandeel22@gmail.com',
 
     "depends": [

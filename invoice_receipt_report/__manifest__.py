@@ -1,6 +1,6 @@
 {
     "name": "Invoice Receipt Report",
-    'version': "17.0",
+    'version': "16.0",
     "summary": "Invoice Receipt Report",
     'website': 'https://www.linkedin.com/in/samah-kandil-odoo',
     'support': 'samahqandeel22@gmail.com',
